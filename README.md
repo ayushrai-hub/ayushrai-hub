@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayushrai0211@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GwU6Exu4bDykol0V4UH5EJd-Dj0mfezz/view?usp=sharing](https://drive.google.com/file/d/1GwU6Exu4bDykol0V4UH5EJd-Dj0mfezz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_YL22fK-dBUgs1RNkA0kbsYP7wFdlrhg/view?usp=sharing](My Resume)
 
 - ⚡ Fun fact **I think i'm philosophical, creative, Collaborative and fun loving.**
 
