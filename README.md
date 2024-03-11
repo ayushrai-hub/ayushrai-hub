@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Power BI**
 
-- 🤝 I’m looking for help with **Full stak development**
+- 🤝 I’m looking for help with **MERN Stack development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ayush_rai02](https://linktr.ee/ayush_rai02)
 
