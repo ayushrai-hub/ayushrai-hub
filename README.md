@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/ayushrai0211" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ayushrai0211?logo=twitter&style=for-the-badge" alt="https://twitter.com/ayushrai0211" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **GenAI**
 
 - 🤝 I’m looking for help with **MERN Stack development**
 
