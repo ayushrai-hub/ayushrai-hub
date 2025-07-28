@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 🤝 I’m looking for help with **MERN Stack development**
+- 🤝 I’m looking for help with **AI Based development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ayush_rai02](https://linktr.ee/ayush_rai02)
 
-- 💬 Ask me about **Data Analytics, MERN Stack Development, Event Management, Content Writing, Soft Skills**
+- 💬 Ask me about **AI development, Data Analytics, MERN Stack Development, Event Management, Content Writing, Soft Skills**
 
 - 📫 How to reach me **ayushrai0211@gmail.com**
 
