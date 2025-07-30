@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **AI Based development**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/ayush_rai02](https://linktr.ee/ayush_rai02)
+- 👨‍💻 All of my projects are available at [LinkTree](https://linktr.ee/ayush_rai02)
 
 - 💬 Ask me about **AI development, Data Analytics, MERN Stack Development, Event Management, Content Writing, Soft Skills**
 
 - 📫 How to reach me **ayushrai0211@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1_YL22fK-dBUgs1RNkA0kbsYP7wFdlrhg/view?usp=sharing](Link)]
+- 📄 Know about my experiences [[Link]([Link](https://drive.google.com/file/d/1x9SK9puZnfPzUnvlVPns_Z5fW8m2OLP7/view?usp=sharing))]
 
 - ⚡ Fun fact **I think i'm philosophical, creative, Collaborative and fun loving.**
 
