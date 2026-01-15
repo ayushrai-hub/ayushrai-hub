@@ -1,137 +1,54 @@
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
-<h3 align="center">
-AI Engineer • LLM & Agent Systems • AI Full-Stack Builder • Open-Source Contributor
-</h3>
+<h3 align="center">AI Engineer & AI Full-Stack Developer • AI Product Engineer • LLM & Agent Architect</h3>
 
 <p align="center">
-  <em>
-    I build production-grade AI systems — from LLM research & RLHF pipelines 
-    to scalable AI-powered products used by millions.
-  </em>
+  Building production-grade AI systems: from LLM research & RLHF pipelines to scalable products used by millions.
 </p>
 
----
+## 🚀 About Me
 
-## 🚀 Summary
+AI Engineer with **2+ years** building production LLM systems, AI agents, and RLHF pipelines of **OpenAI**, **ScaleAI**, **SnorkelAI**, **Turing** via 3rd party vendors. I work end-to-end: problem → design → implementation → deployment → scale. Contributed to open source benchmarking frameworks (TerminalBench, SkillBench) and improved foundation model outputs for millions of users. I'm Currently building products & offer services.
 
-AI Engineer with **2+ years of hands-on experience** building and improving **production LLM systems, AI agents, and RLHF pipelines**.  
-I operate end-to-end — **problem → system design → implementation → deployment → iteration at scale**.
-
-I’ve worked remotely with leading AI organizations via trusted vendors, contributed to **benchmarking & evaluation frameworks**, and helped improve **foundation model outputs and real-world user experience**.
-
-I ship fast, think in systems, and optimize for **impact over noise**.
-
----
+**I ship fast, think in systems, and optimize for impact.**
 
 ## 🧠 Core Expertise
 
-- **LLMs & GenAI** — RAG, Agents, Tool Use, Prompt Systems, Evaluation
-- **AI Agents** — multi-step reasoning, workflows, orchestration
-- **RLHF & Alignment** — data quality, reward modeling, preference learning
-- **AI Full-Stack** — APIs, backends, UX, automation, deployment
-- **MVP & Product Engineering** — from idea → PRD → shipped product
-- **Benchmarks & Evaluation** — quality, robustness, failure modes
-- **Systems Thinking** — scale, security, latency, reliability
+**LLMs & GenAI:** RAG • Agents • Tool Use • Prompt Engineering • Evaluation  
+**AI Alignment:** RLHF • Reward Modeling • Preference Learning • Data Quality  
+**Full-Stack AI:** APIs • Backends • Deployment • Automation • System Architecture  
+**Product Engineering:** MVP Design • Rapid Prototyping • Product Systems  
+**Systems Thinking:** Scale • Security • Latency • Reliability • Robustness
+## 🛠️ Tech Stack
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,react,nextjs,typescript,docker,kubernetes,aws,postgresql,mongodb,git,linux" />
+</p>
 
-## 🏗️ What I Actually Do (End-to-End)
+**AI/ML:** PyTorch • TensorFlow • scikit-learn • LangChain • OpenAI/Anthropic APIs  
+**Backend:** Node.js • Flask • Django • FastAPI  
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS  
+**Infrastructure:** Docker • Kubernetes • AWS • CI/CD
+## 🌱 Currently Exploring
+Advanced LLM evaluation & alignment • Multi-agent orchestration • MCPs • AI infrastructure & MLOps • Research-to-production workflows
+## 🤝 Connect
+<p align="left">
+  <a href="https://linkedin.com/in/ayushrai02/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ayushrai0211"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://medium.com/@ayushrai0211"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.kaggle.com/ayushrai02"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+</p>
 
-- Translate **business & user pain points** into technical solutions
-- Design **AI system architectures** (agents, pipelines, services)
-- Build **secure, scalable, production-ready AI systems**
-- Lead teams, review PRs, set engineering standards
-- Iterate fast using **modern AI-first workflows**
-- Own systems from **development → deployment → maintenance**
-
-I don’t just “use models” — I design **systems around them**.
-
----
-
-## 🏢 Experience & Industry Exposure
-
-Worked on real-world AI systems and benchmarks with:
-
-- **:contentReference[oaicite:0]{index=0}**
-- **:contentReference[oaicite:1]{index=1}**
-- **:contentReference[oaicite:2]{index=2}**
-- **:contentReference[oaicite:3]{index=3}**
-
-Contributions include:
-- Production **RLHF systems**
-- **AI agent workflows**
-- **Benchmarking projects** (TerminalBench, SkillBench, evaluation pipelines)
-- Improving **LLM output quality, safety, and UX**
-- Large-scale annotation, preference modeling & evaluation systems
-
-Impact: **millions of users**, better model reliability, higher-quality outputs.
-
----
-
-## 🧩 Role & Leadership
-
-- **AI Engineer / Lead Contributor**
-- Led & mentored **AI engineers and reviewers**
-- Defined workflows for **quality, speed, and consistency**
-- Strong async communication & cross-team collaboration
-- High ownership, self-accountability, and trust-based execution
-
----
-
-## 🛠️ Technical Stack
-
-### AI / ML / Data
-- Python, PyTorch, scikit-learn, Pandas
-- LLM APIs, RAG systems, evaluation frameworks
-- RLHF pipelines, preference data, reward modeling
-
-### Full-Stack / Systems
-- JavaScript, HTML, CSS
-- Backend APIs, databases, automation
-- Cloud deployment, monitoring, security
-
-### Ways of Working
-- AI-first tooling
-- Rapid prototyping → hardening for production
-- Strong CS foundations + modern workflows
-
----
-
-## 🌍 Open Source & Research Mindset
-
-- Open-source contributor & benchmark participant
-- Interested in **AI research → real-world deployment**
-- Focused on **robustness, evaluation, and system reliability**
-- Generalist across industries, specialist in **LLMs & AI systems**
-
----
-
-## 📌 Products, Services & Collaboration
-
-- AI MVPs & rapid prototyping
-- LLM-powered applications
-- Agent systems & automation
-- Evaluation & benchmarking
-- AI system design & consulting
-
----
-
-## 🔗 Links
-
-- 🌐 Portfolio: https://ayush-rai-work.netlify.app  
-- 📄 Resume: https://drive.google.com/file/d/1EjIs-sIQrmHf0vRoQ9pTiDM_4M5x_P2p/view  
-- 📅 Book a meeting: https://calendly.com/ayushrai0211  
-- 💼 Topmate: https://topmate.io/ayush_rai02  
-
----
-
+📧 ayushrai0211@gmail.com • 🌐 [Portfolio](https://ayush-rai-work.netlify.app/) • 📄 [Resume](https://drive.google.com/file/d/1EjIs-sIQrmHf0vRoQ9pTiDM_4M5x_P2p/view) • 📅 [Calendly](https://calendly.com/ayushrai0211) • 💼 [Topmate](https://topmate.io/ayush_rai02)
 ## ⚡ Philosophy
+**I think like an architect, work like an engineer, and ship like a startup.**
 
-I left traditional workflows early.  
-I adapt fast, build responsibly, and focus on **real impact**.
+I believe the future belongs to engineers who understand systems, think architecturally, ship secure and scalable products, and stay human while building powerful AI.
+<p align="center">
+  <a href="https://buymeacoffee.com/ayush_rai02">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
-I believe the future belongs to engineers who:
-- understand **systems**
-- think **architecturally**
-- ship **secure, scalable products**
-- and stay human while building powerful AI.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+</p>
