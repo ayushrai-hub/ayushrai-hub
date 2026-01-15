@@ -1,33 +1,137 @@
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
-<h3 align="center">An aspiring Data Analyst from india</h3>
+<h3 align="center">
+AI Engineer • LLM & Agent Systems • AI Full-Stack Builder • Open-Source Contributor
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushrai-hub" alt="ayushrai-hub" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/ayushrai0211" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ayushrai0211?logo=twitter&style=for-the-badge" alt="https://twitter.com/ayushrai0211" /></a> </p>
-
-- 🌱 I’m currently learning **GenAI**
-
-- 🤝 I’m looking for help with **AI Based development**
-
-- 👨‍💻 All of my projects are available at [LinkTree](https://linktr.ee/ayush_rai02)
-
-- 💬 Ask me about **AI development, Data Analytics, MERN Stack Development, Event Management, Content Writing, Soft Skills**
-
-- 📫 How to reach me **ayushrai0211@gmail.com**
-
-- 📄 Know about my experiences [[Link]([Link](https://drive.google.com/file/d/1x9SK9puZnfPzUnvlVPns_Z5fW8m2OLP7/view?usp=sharing))]
-
-- ⚡ Fun fact **I think i'm philosophical, creative, Collaborative and fun loving.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/ayushrai0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ayushrai0211" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushrai02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushrai02" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100025749070113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100025749070113" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ayush_rai02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayush_rai02/" height="30" width="40" /></a>
+<p align="center">
+  <em>
+    I build production-grade AI systems — from LLM research & RLHF pipelines 
+    to scalable AI-powered products used by millions.
+  </em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrai-hub&show_icons=true&locale=en&layout=compact" alt="ayushrai-hub" /></p>
+## 🚀 Summary
+
+AI Engineer with **2+ years of hands-on experience** building and improving **production LLM systems, AI agents, and RLHF pipelines**.  
+I operate end-to-end — **problem → system design → implementation → deployment → iteration at scale**.
+
+I’ve worked remotely with leading AI organizations via trusted vendors, contributed to **benchmarking & evaluation frameworks**, and helped improve **foundation model outputs and real-world user experience**.
+
+I ship fast, think in systems, and optimize for **impact over noise**.
+
+---
+
+## 🧠 Core Expertise
+
+- **LLMs & GenAI** — RAG, Agents, Tool Use, Prompt Systems, Evaluation
+- **AI Agents** — multi-step reasoning, workflows, orchestration
+- **RLHF & Alignment** — data quality, reward modeling, preference learning
+- **AI Full-Stack** — APIs, backends, UX, automation, deployment
+- **MVP & Product Engineering** — from idea → PRD → shipped product
+- **Benchmarks & Evaluation** — quality, robustness, failure modes
+- **Systems Thinking** — scale, security, latency, reliability
+
+---
+
+## 🏗️ What I Actually Do (End-to-End)
+
+- Translate **business & user pain points** into technical solutions
+- Design **AI system architectures** (agents, pipelines, services)
+- Build **secure, scalable, production-ready AI systems**
+- Lead teams, review PRs, set engineering standards
+- Iterate fast using **modern AI-first workflows**
+- Own systems from **development → deployment → maintenance**
+
+I don’t just “use models” — I design **systems around them**.
+
+---
+
+## 🏢 Experience & Industry Exposure
+
+Worked on real-world AI systems and benchmarks with:
+
+- **:contentReference[oaicite:0]{index=0}**
+- **:contentReference[oaicite:1]{index=1}**
+- **:contentReference[oaicite:2]{index=2}**
+- **:contentReference[oaicite:3]{index=3}**
+
+Contributions include:
+- Production **RLHF systems**
+- **AI agent workflows**
+- **Benchmarking projects** (TerminalBench, SkillBench, evaluation pipelines)
+- Improving **LLM output quality, safety, and UX**
+- Large-scale annotation, preference modeling & evaluation systems
+
+Impact: **millions of users**, better model reliability, higher-quality outputs.
+
+---
+
+## 🧩 Role & Leadership
+
+- **AI Engineer / Lead Contributor**
+- Led & mentored **AI engineers and reviewers**
+- Defined workflows for **quality, speed, and consistency**
+- Strong async communication & cross-team collaboration
+- High ownership, self-accountability, and trust-based execution
+
+---
+
+## 🛠️ Technical Stack
+
+### AI / ML / Data
+- Python, PyTorch, scikit-learn, Pandas
+- LLM APIs, RAG systems, evaluation frameworks
+- RLHF pipelines, preference data, reward modeling
+
+### Full-Stack / Systems
+- JavaScript, HTML, CSS
+- Backend APIs, databases, automation
+- Cloud deployment, monitoring, security
+
+### Ways of Working
+- AI-first tooling
+- Rapid prototyping → hardening for production
+- Strong CS foundations + modern workflows
+
+---
+
+## 🌍 Open Source & Research Mindset
+
+- Open-source contributor & benchmark participant
+- Interested in **AI research → real-world deployment**
+- Focused on **robustness, evaluation, and system reliability**
+- Generalist across industries, specialist in **LLMs & AI systems**
+
+---
+
+## 📌 Products, Services & Collaboration
+
+- AI MVPs & rapid prototyping
+- LLM-powered applications
+- Agent systems & automation
+- Evaluation & benchmarking
+- AI system design & consulting
+
+---
+
+## 🔗 Links
+
+- 🌐 Portfolio: https://ayush-rai-work.netlify.app  
+- 📄 Resume: https://drive.google.com/file/d/1EjIs-sIQrmHf0vRoQ9pTiDM_4M5x_P2p/view  
+- 📅 Book a meeting: https://calendly.com/ayushrai0211  
+- 💼 Topmate: https://topmate.io/ayush_rai02  
+
+---
+
+## ⚡ Philosophy
+
+I left traditional workflows early.  
+I adapt fast, build responsibly, and focus on **real impact**.
+
+I believe the future belongs to engineers who:
+- understand **systems**
+- think **architecturally**
+- ship **secure, scalable products**
+- and stay human while building powerful AI.
