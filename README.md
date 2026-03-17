@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-AI Engineer with **2+ years** building production LLM systems, AI agents, and RLHF pipelines of **OpenAI**, **ScaleAI**, **SnorkelAI**, **Turing** via 3rd party vendors. I work end-to-end: problem → design → implementation → deployment → scale. Contributed to open source benchmarking frameworks (TerminalBench, SkillBench) and improved foundation model outputs for millions of users. I'm Currently building products & offer services.
+AI Engineer with **2+ years** building production LLM systems, AI agents, and RLHF pipelines of **OpenAI**, **ScaleAI**, **Turing** via 3rd party vendors. I work end-to-end: problem → design → implementation → deployment → scale. Contributed to open source benchmarking frameworks (TerminalBench, SkillBench) and improved foundation model outputs for millions of users. I'm Currently building products & offer services.
 
 **I ship fast, think in systems, and optimize for impact.**
 
