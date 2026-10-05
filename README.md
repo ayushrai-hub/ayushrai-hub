@@ -19,7 +19,7 @@ Builder and engineer working across **LLM systems, AI, agents, RL and evaluation
 - **SpiderWeb** — affiliation graph and entity merge/import pipeline.
 - **MedVoice** — voice-AI prototype for enterprise billing workflows, with human confirmation as a safety control.
 - **[Life of Ayush](https://life.ayushrai.site)** — my public knowledge system: what I ship, what broke, what I would do differently.
-- More on **[GitHub](https://github.com/ayushrai-hub)** and **[ayushrai.site](https://www.ayushrai.site/) and **(https://thedreamprotocol.in/)****.
+- More on **[GitHub](https://github.com/ayushrai-hub)** and **[ayushrai.site](https://www.ayushrai.site/) and **[thedreamprotocol](https://thedreamprotocol.in/)**.
 
 ## 🧠 Core Capabilities
 
