@@ -1,35 +1,50 @@
 <h1 align="center">Hi 👋, I'm Ayush Rai</h1>
-<h3 align="center">AI Engineer & AI Full-Stack Developer • AI Product Engineer • LLM & Agent Architect</h3>
+<h3 align="center">AI Systems • AI Products • Agents • Automation</h3>
 
 <p align="center">
-  Building production-grade AI systems: from LLM research & RLHF pipelines to scalable products used by millions.
+  I build AI systems and products end to end: from LLM applications and agents to evaluation tooling and the products around them.
 </p>
 
 ## 🚀 About Me
 
-AI Engineer with **2.5+ years** building production LLM systems, AI agents, and RLHF pipelines of **OpenAI**, **ScaleAI**, **Turing** via 3rd party vendors. I work end-to-end: problem → design → implementation → deployment → scale. Contributed to open source benchmarking frameworks (TerminalBench, SkillBench) and improved foundation model outputs for millions of users. I'm Currently building products & offer services.
+Builder and engineer working across **LLM systems, AI, agents, RL and evaluation, Automations & workflows, and product development**. I take work from problem to design to implementation to deployment, and I do evaluation work for frontier-lab programs (contract). Currently building products and open to roles, freelance and collaborations.
 
-**I ship fast, think in systems, and optimize for impact.**
+**I ship in small steps, think in systems, and show the evidence.**
 
-## 🧠 Core Expertise
+## 🧪 What I'm Building
 
-**LLMs & GenAI:** RAG • Agents • Tool Use • Prompt Engineering • Evaluation  
-**AI Alignment:** RLHF • Reward Modeling • Preference Learning • Data Quality  
-**Full-Stack AI:** APIs • Backends • Deployment • Automation • System Architecture  
-**Product Engineering:** MVP Design • Rapid Prototyping • Product Systems  
-**Systems Thinking:** Scale • Security • Latency • Reliability • Robustness
+- **[AGENYRA](https://agenyra.space/)** — an AI product in early stage (site and waitlist live).
+- **[RevenueRoles](https://revenueroles.in/)** — technical revenue job intelligence and a job board, with deterministic ranking.
+- **[Open Frameworks](https://www.opentheframework.space/)** — an open ecosystem/framework for building and sharing AI-native systems, tools, and workflows.
+- **SpiderWeb** — affiliation graph and entity merge/import pipeline.
+- **MedVoice** — voice-AI prototype for enterprise billing workflows, with human confirmation as a safety control.
+- **[Life of Ayush](https://life.ayushrai.site)** — my public knowledge system: what I ship, what broke, what I would do differently.
+- More on **[GitHub](https://github.com/ayushrai-hub)** and **[ayushrai.site](https://www.ayushrai.site/) and **(https://thedreamprotocol.in/)****.
+
+## 🧠 Core Capabilities
+
+**AI Systems & LLM Applications:** RAG • Agents • Tool Use • Prompt and Context Engineering • Evaluation Harnesses  
+**RL & Model Alignment:** RL Environments • Task Design • Preference Data • Rubrics • Model Evaluation  
+**Full-Stack Engineering:** APIs • Backends • Deployment • Automation • System Architecture  
+**Product Development:** MVP Design • Rapid Prototyping • Shipping Products  
+**GTM & Automation:** Workflow Automation • Data Pipelines • Research and Outreach Tooling  
+**Systems Thinking:** Security • Latency • Reliability • Robustness
+
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,react,nextjs,typescript,docker,kubernetes,aws,postgresql,mongodb,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,react,nextjs,typescript,docker,aws,postgresql,mongodb,git,linux" />
 </p>
 
-**AI/ML:** PyTorch • TensorFlow • scikit-learn • LangChain • OpenAI/Anthropic APIs  
+**AI/ML:** PyTorch • TensorFlow • scikit-learn • OpenAI/Anthropic APIs  
+**Agentic AI:** LangChain • Tool/Function Calling • RAG • MCP • Multi-Agent Orchestration  
 **Backend:** Node.js • Flask • Django • FastAPI  
 **Frontend:** React • Next.js • TypeScript • Tailwind CSS  
-**Infrastructure:** Docker • Kubernetes • AWS • CI/CD
+**Infrastructure:** Docker • AWS (EC2, S3, Lambda) • CI/CD
+
 ## 🌱 Currently Exploring
-Advanced LLM evaluation & alignment • Multi-agent orchestration • MCPs • AI infrastructure & MLOps • Research-to-production workflows
+LLM evaluation • Multi-agent orchestration • MCP • AI infrastructure and MLOps • Research-to-production workflows
+
 ## 🤝 Connect
 <p align="left">
   <a href="https://linkedin.com/in/ayushrai02/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -38,11 +53,11 @@ Advanced LLM evaluation & alignment • Multi-agent orchestration • MCPs • A
   <a href="https://www.kaggle.com/ayushrai02"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
-📧 ayushrai0211@gmail.com • 🌐 [Portfolio](https://ayush-rai-work.netlify.app/) • 📄 [Resume](https://drive.google.com/file/d/1EjIs-sIQrmHf0vRoQ9pTiDM_4M5x_P2p/view) • 📅 [Calendly](https://calendly.com/ayushrai0211) • 💼 [Topmate](https://topmate.io/ayush_rai02)
-## ⚡ Philosophy
-**I think like an architect, work like an engineer, and ship like a startup.**
+📧 ayushrai0211@gmail.com • 🌐 [Website](https://www.ayushrai.site/) • 🧭 [life.ayushrai.site](https://life.ayushrai.site) • 📄 [Resume](https://drive.google.com/file/d/1EjIs-sIQrmHf0vRoQ9pTiDM_4M5x_P2p/view) • 📅 [Calendly](https://calendly.com/ayushrai0211) • 💼 [Topmate](https://topmate.io/ayush_rai02)
 
-I believe the future belongs to engineers who understand systems, think architecturally, ship secure and scalable products, and stay human while building powerful AI.
+## ⚡ Philosophy
+**Think in systems, ship in small steps, and keep the evidence close.**
+
 <p align="center">
   <a href="https://buymeacoffee.com/ayush_rai02">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="Buy Me A Coffee" />
